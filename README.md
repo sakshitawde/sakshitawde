@@ -1,1 +1,2 @@
-This is my first repository
+Hey, I am Sakshi
+I am currently pursing BE in IT
